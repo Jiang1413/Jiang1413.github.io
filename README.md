@@ -1,1 +1,1 @@
-# wei's personal website
+# Personal website
